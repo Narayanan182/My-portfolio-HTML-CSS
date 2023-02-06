@@ -1,0 +1,20 @@
+h1 {
+    color:brown;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+    background-color:aquamarine;
+    display:flex;
+    color:brown
+    justify-content:space-between
+}
+
+.game{
+    background-color:aquamarine;
+    color:brown;
+    justify-content:flex
+}
